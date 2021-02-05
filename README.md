@@ -1,5 +1,4 @@
 # Sadaf Calendar
-Sadaf Calendar based on sadaf framework and various features
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -20,10 +19,7 @@ Sadaf Calendar based on sadaf framework and various features
   <h3 align="center">Sadaf Calendar</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
+Sadaf Calendar based on sadaf framework and various features
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
@@ -128,17 +124,18 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/milanifard/EventCalendar/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/milanifard/EventCalendar/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/milanifard/EventCalendar/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/milanifard/EventCalendar/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/milanifard/EventCalendar/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
 [stars-url]: https://github.com/milanifard/EventCalendar/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/milanifard/EventCalendar/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/milanifard/EventCalendar/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/milanifard/EventCalendar/repo/issues
+[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-url]: https://github.com/milanifard/EventCalendar/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/milanifard/EventCalendar
+
 
 ![alt text](https://github.com/milanifard/EventCalendar/blob/master/ER.jpg)
