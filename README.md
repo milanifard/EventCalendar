@@ -122,11 +122,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Authors
-Hamed Davarmanesh | @hamed_dvrm
-Behrouz Ghamkhar | @behrouz_gk
-Amirhosein Servati | @AmirhosseinServati
-Amirhosein Yahgub nezhad | @Ghaderon
-Hamed Goharshad | @hamedGord
+* [Hamed Davarmanesh | @hamed_dvrm]()
+* [Behrouz Ghamkhar | @behrouz_gk
+]()
+* [Amirhosein Servati | @AmirhosseinServati
+]()
+* [Amirhosein Yahgub nezhad | @Ghaderon
+]()
+* [Hamed Goharshad | @hamedGord
+]()
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
