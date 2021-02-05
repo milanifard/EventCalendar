@@ -29,6 +29,10 @@ Sadaf Calendar based on sadaf framework and various features
   </p>
 </p>
 
+<p align="center"><img src="https://github.com/milanifard/EventCalendar/blob/master/images/screen_shot.jpg"></p>
+
+
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -58,7 +62,6 @@ Sadaf Calendar based on sadaf framework and various features
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -72,7 +75,7 @@ Sadaf Calendar based on sadaf framework and various features
 <br>
 فایل CalendarTask.php که دارای کلاس CalendarTask شامل تمام ویژگی های یک تسک و کلاس manage_task برای مدیریت تسک ها شامل : ایجاد تسک ، حذف تسک و گرفتن تسک های کاربر مورد نظر می باشد
 <br>
-فایل های دایرکتوری API  برای هم برای برای اتصال به بخش فرانت با دریافت پارامتر های مربوطه با متد POST و استفاده از متد های استاتیک کلاس های ایجاد شده برای اتصال و تغییر در دیتابیس
+فایل های دایرکتوری API  برای هم برای برای اتصال به بخش فرانت با دریافت پارامتر های مربوطه با متد POST و استفاده از متد های استاتیک کلاس های ایجاد شده برای  اتصال و تغییر در دیتابیس استفاده میگردد . 
 <br>
 </p>
 
@@ -82,27 +85,6 @@ Sadaf Calendar based on sadaf framework and various features
 * [HTML]()
 * [CSS]()
 * [Vu.js]()
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
