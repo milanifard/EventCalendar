@@ -84,7 +84,7 @@ Sadaf Calendar based on sadaf framework and various features
 * [PHP]()
 * [HTML]()
 * [CSS]()
-* [Vu.js]()
+* [Vue.js]()
 
 <!-- CONTRIBUTING -->
 ## Contributing
